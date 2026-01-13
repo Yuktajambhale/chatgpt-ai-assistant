@@ -8,6 +8,7 @@
 ![License](https://img.shields.io/github/license/Yuktajambhale/chatgpt-ai-assistant?style=for-the-badge&color=blue)
 
 ![image (4)](https://github.com/user-attachments/assets/e3e0e543-27fb-4881-8150-aeae410a0b0e)
+![image (5)](https://github.com/user-attachments/assets/063eee0b-faf3-4af6-b33b-3e4963f20121)
 
 ---
 
